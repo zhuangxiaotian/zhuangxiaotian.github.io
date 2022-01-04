@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>夜空下最亮的星</title>
+    <description></description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Tue, 04 Jan 2022 16:27:49 +0800</pubDate>
+    <lastBuildDate>Tue, 04 Jan 2022 16:27:49 +0800</lastBuildDate>
+    <generator>Jekyll v4.2.1</generator>
+    
+      <item>
+        <title>新的开始</title>
+        <description>&lt;h2 id=&quot;前言&quot;&gt;前言&lt;/h2&gt;
+
+&lt;p&gt;可能想重新开始，好好生活了。&lt;/p&gt;
+
+&lt;h2 id=&quot;正文&quot;&gt;正文&lt;/h2&gt;
+
+&lt;p&gt;​	打开闲置大半年的mac，回想过去颓废的半年，终于想做点什么，积累点什么，为即将到来的30岁做一些准备。&lt;/p&gt;
+
+&lt;p&gt;​	回想16年 毕业到现在，毕业了5年半了，第一家公司待了一年半，现在公司待了3年半。无论对于任何一家公司，都怀揣着感激之情。第一家公司让我真正学到了技术或者说让我掌握了学习方法(老板技术真的很厉害)，现在的公司则是绝对的人性化管理(保证了我绝对的午休质量— 中午可以躺床上睡2h+)。&lt;/p&gt;
+
+&lt;p&gt;​	现在的工作也相对轻松，决定好好利用工作的碎片时间，总结下自己的知识，规划下自己的未来。&lt;/p&gt;
+
+&lt;h3 id=&quot;展望&quot;&gt;展望&lt;/h3&gt;
+
+&lt;p&gt;加油！！！
+2022年 找个妹子！
+2022年 好好减肥！
+2022年 好好赚钱！&lt;/p&gt;
+
+&lt;p&gt;一切为了妹子～～～&lt;/p&gt;
+</description>
+        <pubDate>Tue, 04 Jan 2022 22:49:00 +0800</pubDate>
+        <link>http://localhost:4000/2022/01/04/blog-start/</link>
+        <guid isPermaLink="true">http://localhost:4000/2022/01/04/blog-start/</guid>
+        
+        <category>生活</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
